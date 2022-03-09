@@ -1,0 +1,4 @@
+1,Morrison,Marion,1313 Mockingbird Lane,Atlanta,GA
+2,Jane,Mary,1640 Riverside Drive,Hill Valley,CA
+3,Rubble,Barney,84 Beacon Street,Boston,MA
+4,Davis,Betty,10 Stigwood Avenue,New York,NY
