@@ -56,9 +56,9 @@ In this assignment, you will write a program that demonstrates the use of user-d
 
 5. Accept a distance value and unit of length from the user and store these two values in variables. Use prompts such as:
 
-		`Please enter a distance value:
+		Please enter a distance value:
 		
-		What is the unit of length (M = miles, KM = kilometers):`
+		What is the unit of length (M = miles, KM = kilometers):
 
 	- *Hint*: Preface your input statement with float to ensure the value they enter is stored as a decimal number for use in the conversion formulas.
 
@@ -90,7 +90,7 @@ In this assignment, you will write a program that demonstrates the use of user-d
 
 ### Example Output 
 
-	`Please enter a distance value: 26.2
+	Please enter a distance value: 26.2
 	
 	What is the unit of length (M = miles, KM = kilometers) : m
 	
