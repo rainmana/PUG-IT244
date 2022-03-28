@@ -73,7 +73,7 @@ Alec is also a staunch supporter of neurodivergence and neurodiverse inclusion a
 * [Email Me!](mailto:me@alecakin.com)
 * [Website (under construction)](https://alecakin.com)
 
-### Media (Things I've Worked on or Done):
+### Media (Things I've Worked On):
 * [Incident Reponse Panel Participant - Develop Idaho](https://www.silentsector.com/blog/develop-idaho-boise-conference-incident-response)
 * [Wired Article About Project/Non-Profit I Helped Start/On the Board For (PDAP.io)](https://www.wired.com/story/police-accountability-data-project-open-source-reddit/)
 * [Vice Article about PDAP.io](https://www.vice.com/en/article/5dpxvq/this-transparency-project-is-creating-a-massive-collection-of-police-data)
