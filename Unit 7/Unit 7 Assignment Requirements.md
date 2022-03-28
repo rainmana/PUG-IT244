@@ -66,15 +66,15 @@ You will write a simple golf scoring program that defines a golf class from whic
 
 	- Example:
 
-`			if enterHole == 1:
+			if enterHole == 1:
+			
+			   hole1.evaluateAndDisplayScore(enterHole, score)
 
-				hole1.evaluateAndDisplayScore(enterHole, score)`
-
-	- Reference: Refer to Programming in Python, Chapter 10: Classes and Objects / 10.3 Accessing Attributes.
+	- *Reference*: Refer to Programming in Python, Chapter 10: Classes and Objects / 10.3 Accessing Attributes.
 
 ### EXAMPLE RESULTS
 
-	`Enter the hole number: 1
+	Enter the hole number: 1
 	
 	Enter your score: 5
 	
@@ -94,8 +94,8 @@ You will write a simple golf scoring program that defines a golf class from whic
 	
 	Enter your score: 5
 	
-	You scored At Par on hole # 3 with a par of 5`
+	You scored At Par on hole # 3 with a par of 5
 
 ### Directions for Submitting Your Assignment
 
-Submit one program named IT244_YourLastName_Unit7.py.
+Submit one program named `IT244_YourLastName_Unit7.py`.
