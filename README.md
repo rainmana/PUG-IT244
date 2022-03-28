@@ -46,16 +46,20 @@ Below you will find links to each component of that unit, including Assignment R
 * [Unit 6 Submitted BONUS Code](https://github.com/rainmana/PUG-IT244/blob/main/Unit%206/Unit%206%20Assignment(BONUS).py)
 
 ### Unit 7: Classes and Objects
-* In progress
+* [Unit 7 Assignment Requirements](https://github.com/rainmana/PUG-IT244/blob/main/Unit%207/Unit%207%20Assignment%20Requirements.md#unit-7-assignment-classes-and-objects)
+* [Unit 7 Submitted Assignment](https://github.com/rainmana/PUG-IT244/blob/main/Unit%207/Unit%207%20Assignment.py)
 
 ### Unit 8: Working with Python System Interfaces
-* In progress
+* [Unit 8 Assignment Requirements](https://github.com/rainmana/PUG-IT244/blob/main/Unit%208/Unit%208%20Assignment%20Requirements.md#it244-unit-8-assignment-working-with-python-system-interfaces)
+* Unit 8 Submitted Assignment (In Progress/Will Update)
 
 ### Unit 9: Patterns of Human Behavior
-* Future Unit
+* [Unit 9 Assignment Requirements](https://github.com/rainmana/PUG-IT244/blob/main/Unit%209/Unit%209%20Assignment%20Requirements.md#unit-9-assignment-patterns-of-human-behavior)
+* Unit 9 Submitted Assignment (Future Unit/Will Update)
 
 ### Unit 10: User Defined Modules
-* Future Unit
+* [Unit 10 Assignment Requirements](https://github.com/rainmana/PUG-IT244/blob/main/Unit%2010/Unit%2010%20Assignment%20Requirements.md#it244-unit-10-assignment-user-define-modules)
+* Unit 10 Submitted Assignment (Future Unit/Will Update)
 
 
 
