@@ -15,7 +15,7 @@ That depends. If you're going to submit my work as your own (especially for home
 For a super fast, easy to use, very accurate, and automatic (most of the time) citation generator, I highly recommend [Scribbr](https://www.scribbr.com/apa-citation-generator/).
 
 ## Class Breakdown:
-Below you will find links to each component of that unit, including Assignment Requirements, required files or input data (if applicable), "BONUS" code, and the submitted assignment.
+Below you will find links to each component of that unit, including Assignment Requirements, required files or input data (if applicable), "BONUS" code, and the submitted assignment. I will also work on getting a breakdown of my grades and feedback per assignment in case others want to compare their attempt to mine and see what can be improved!
 ### Unit 1: Python Basics
 * [Unit 1 Assignment Requirements](https://github.com/rainmana/PUG-IT244/blob/main/Unit%201/Unit%201%20Assignment%20Requirements.md#it244-unit-1-assignment-python-basics)
 * [Unit 1 Submitted Assignment](https://github.com/rainmana/PUG-IT244/blob/main/Unit%201/Unit%201%20Assignment.py)
@@ -51,15 +51,19 @@ Below you will find links to each component of that unit, including Assignment R
 
 ### Unit 8: Working with Python System Interfaces
 * [Unit 8 Assignment Requirements](https://github.com/rainmana/PUG-IT244/blob/main/Unit%208/Unit%208%20Assignment%20Requirements.md#it244-unit-8-assignment-working-with-python-system-interfaces)
-* Unit 8 Submitted Assignment (In Progress/Will Update)
+* [Unit 8 Submitted Assignment (Docx)](https://github.com/rainmana/PUG-IT244/blob/main/Unit%208/IT244_Akin_Unit8.docx)
+* [Unit 8 Assignment (Markdown)](https://github.com/rainmana/PUG-IT244/blob/main/Unit%208/Unit%208%20Assignment.md)
 
 ### Unit 9: Patterns of Human Behavior
 * [Unit 9 Assignment Requirements](https://github.com/rainmana/PUG-IT244/blob/main/Unit%209/Unit%209%20Assignment%20Requirements.md#unit-9-assignment-patterns-of-human-behavior)
-* Unit 9 Submitted Assignment (Future Unit/Will Update)
+* [Unit 9 Submitted Assignment (Docx)](https://github.com/rainmana/PUG-IT244/blob/main/Unit%209/IT244_WilliamAlecAkin_Unit9.docx)
+* [Unit 9 Assignment (Markdown)](https://github.com/rainmana/PUG-IT244/blob/main/Unit%209/Unit%209%20Assignment.md)
 
 ### Unit 10: User Defined Modules
 * [Unit 10 Assignment Requirements](https://github.com/rainmana/PUG-IT244/blob/main/Unit%2010/Unit%2010%20Assignment%20Requirements.md#it244-unit-10-assignment-user-define-modules)
-* Unit 10 Submitted Assignment (Future Unit/Will Update)
+* [Unit 10 Submitted Assignment (Zip file)](https://github.com/rainmana/PUG-IT244/blob/main/Unit%2010/IT244_WilliamAlecAkin_Unit10.zip)
+* [Unit 10 Assignment (Folder)](https://github.com/rainmana/PUG-IT244/tree/main/Unit%2010/Unit%2010%20Assignment)
+* Unit 10 Assignment Readme (Coming soon)
 
 
 
