@@ -15,7 +15,9 @@ That depends. If you're going to submit my work as your own (especially for home
 For a super fast, easy to use, very accurate, and automatic (most of the time) citation generator, I highly recommend [Scribbr](https://www.scribbr.com/apa-citation-generator/).
 
 ## Class Breakdown:
-Below you will find links to each component of that unit, including Assignment Requirements, required files or input data (if applicable), "BONUS" code, and the submitted assignment. I will also work on getting a breakdown of my grades and feedback per assignment in case others want to compare their attempt to mine and see what can be improved!
+Below you will find links to each component of that unit, including Assignment Requirements, required files or input data (if applicable), "BONUS" code, and the submitted assignment.
+
+Here is 
 ### Unit 1: Python Basics
 * [Unit 1 Assignment Requirements](https://github.com/rainmana/PUG-IT244/blob/main/Unit%201/Unit%201%20Assignment%20Requirements.md#it244-unit-1-assignment-python-basics)
 * [Unit 1 Submitted Assignment](https://github.com/rainmana/PUG-IT244/blob/main/Unit%201/Unit%201%20Assignment.py)
